@@ -15,3 +15,6 @@ Necessária para a resolução das EDO's as quais utilizaremos para tentar preve
 Utilizamos está biblioteca para a criação de arrays os quais serão uteis em nossa EDO.
 ## plotly.graph_objects
 Biblioteca utilizada para tornar possiveis as iterações gráficas e plotes de gráficos necessários.
+
+# Como usar os gráficos iterativos
+
